@@ -5,8 +5,8 @@
 #define MAX_COLS 10
 
 int main() {
-    char csv_file[50] = "holaaa.csv";
-    char file_name[50] = "cocteles.txt";
+    char csv_file[50] = "new_file.csv";
+    char file_name[50] = "file_to_convert.txt";
 
     char data[MAX_ROWS][100];
     char table[MAX_ROWS][MAX_COLS][100];
