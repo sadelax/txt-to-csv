@@ -1,3 +1,0 @@
-# txt-to-csv
-friendly reminder: no usar conversores en línea nunca más. :)
-gcc txttocsv.c && ./a.out
